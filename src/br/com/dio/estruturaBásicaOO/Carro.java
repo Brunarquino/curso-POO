@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.estruturaBásicaOO;
  //Objeto/Classe/Substantivo
  //Carro
 public class Carro {
